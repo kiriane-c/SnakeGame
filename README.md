@@ -1,1 +1,2 @@
 # SnakeGame
+Described the snake game in Verilog using Artix-7 Xilinx FPGA and software Vivado. The snake (colour yellow) moves at a particular speed and its direction (up, down, left and right) are determined by push buttons. The target (colour red) is randomly generated using LFSR. When the snake eats a target, the score is shown on the seven segment display. The snake grows when a target is eaten and dies if it bites itself.
